@@ -1,0 +1,5 @@
+D:\Code\TestDnsResolver\TestDnsResolver\bin\Debug\TestDnsResolver.exe
+D:\Code\TestDnsResolver\TestDnsResolver\bin\Debug\TestDnsResolver.pdb
+D:\Code\TestDnsResolver\TestDnsResolver\obj\Debug\TestDnsResolver.csprojResolveAssemblyReference.cache
+D:\Code\TestDnsResolver\TestDnsResolver\obj\Debug\TestDnsResolver.exe
+D:\Code\TestDnsResolver\TestDnsResolver\obj\Debug\TestDnsResolver.pdb
